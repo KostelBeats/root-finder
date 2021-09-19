@@ -1,0 +1,3 @@
+C:\Users\ggkos\source\repos\Finder\Finder\x64\Debug\Finder.Form1.resources
+C:\Users\ggkos\source\repos\Finder\Finder\x64\Debug\Finder.vcxproj.GenerateResource.cache
+C:\Users\ggkos\source\repos\Finder\Finder\x64\Debug\Finder.vcxproj.AssemblyReference.cache

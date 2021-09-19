@@ -1,0 +1,6 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\ggkos\source\repos\Finder\Finder\Form1.h(301,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\ggkos\source\repos\Finder\Finder\Form1.h(311,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\ggkos\source\repos\Finder\Finder\Form1.h(321,14): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Finder.vcxproj -> C:\Users\ggkos\source\repos\Finder\x64\Debug\Finder.exe
